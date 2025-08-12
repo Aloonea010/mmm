@@ -1,0 +1,32 @@
+{
+  "name": "Aigenei #0",
+  "symbol": "AIG",
+  "description": "Aigenei is a next-generation AI-powered blockchain network designed to empower decentralized communities with advanced intelligence and seamless governance. Built for the future, Aigenei blends cutting-edge technology and user-driven innovation to create a truly autonomous ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/Aloonea010/mmm/main/logo.jpg",
+  "attributes": [
+    {
+      "trait_type": "Community",
+      "value": "User-Governed"
+    }
+  ],
+  "collection": {
+    "name": "Aigenei Network",
+    "family": "Aigenei"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aloonea010/mmm/main/logo.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9UkxEyjPu7sR9jgedDKyxwdSxZpVFVBW3MeewpytLdn",
+        "share": 100
+      }
+    ]
+  }
+}
